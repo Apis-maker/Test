@@ -1,0 +1,2 @@
+napisal cherez echo
+otredaktiroval cherez vi comandi.
